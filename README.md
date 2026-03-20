@@ -8,6 +8,9 @@ A next-generation decentralized news ecosystem where users control content, cred
 
 🌐 Overview
 
+<img width="1918" height="1047" alt="image" src="https://github.com/user-attachments/assets/130c1937-9efc-45af-9211-d9d9da308fd4" />
+
+
 Traditional news platforms are centralized — meaning:
 
 Content can be censored or manipulated
