@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Stellar Dapp",
+  title: "Decentralized News Platform",
   description:
-    "Fullstack Dapp built on Stellar",
+    "Decentralized news platform built on Stellar",
 };
 
 export default function RootLayout({
